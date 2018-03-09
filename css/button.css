@@ -1,0 +1,22 @@
+.BT2 {
+  display: inline-block;
+  padding: 1px 1px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;   
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F29E16;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.BT2:hover {background-color: #F29E16}
+
+.BT2:active {
+  background-color: #F29E16;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
