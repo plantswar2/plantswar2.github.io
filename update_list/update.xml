@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="GB2312"?>
+<?xml-stylesheet type="text/xsl" href="./simple.xsl" ?>
+<update_list>
+	<update>
+		<info>（注：从新到旧）</info>
+	</update>
+	<update>
+		<name>植物战争2</name>
+		<version>v1.0.3</version>
+		<info>更新内容：无尽模式。减去了支线小游戏关卡。修复了某些bug。平衡性调整：下调新的危机part2关卡难度。</info>
+	</update>
+	<update>
+		<name>植物战争2</name>
+		<version>v1.0.2</version>
+		<info>更新内容：
+春日庆典。
+新的危机最终挑战。</info>
+	</update>
+	<update>
+		<name>植物战争2</name>
+		<version>v1.0.1</version>
+		<info>平衡性调整:
+		1.削弱枣药丸投手(不能无视防具)
+2.青柠鱼能力调整(从随机子弹变成全屏子弹，持续5s)
+3.熊梨长大的时间缩短一秒，且增加长大后的熊梨少量血量。
+4.冰封僵尸发射子弹的间隔增加一秒。
+5.3000型火箭山羊的速度减去百分之十六，且可以被混混甜菜击退。
+     更新内容:
+1.新的危机Part2:5个新关卡，3个小游戏。
+2.重置BOSS关卡。
+3.修复了某些恼人的Bug。4.修复了boss关无法过关的bug。</info>
+		
+	</update>
+	<update>
+		<name>植物战争2</name>
+		<version>v1.0.0</version>
+		<info>
+1.增加了春节活动(2.15-2.19)
+2.降低了豌豆乱弹第二天关卡的难度。
+3.显示关卡号。
+4.加强了混混甜菜。
+</info>
+	</update>
+</update_list>
