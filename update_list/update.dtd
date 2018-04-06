@@ -1,0 +1,7 @@
+<xml version="1.0" encoding="GB2312"?>
+<!ELEMENT update_list (update,info,name,version)>
+<!ATTLIST update_list type CDATA #REQUIRED>
+<!ELEMENT update      (#PCDATA)>
+<!ELEMENT info      (#PCDATA)>
+<!ELEMENT name      (#PCDATA)>
+<!ELEMENT version      (#PCDATA)>
