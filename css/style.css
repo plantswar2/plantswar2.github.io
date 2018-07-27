@@ -1,0 +1,57 @@
+/*
+Some junks
+*/
+
+ h1 {
+ 	text-align:center;
+ 	font-family:å¾ ½¯é›…é»‘;
+ 	color:navy;
+}
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ li {
+    float: left;
+}
+
+ li a:hover {
+    background-color: #111;
+}
+
+ div.nowstart {
+ 	background-image:url(../image/beijing1.jpg);
+ 	background-repeat: repeat;
+ 	padding: 50px;
+}
+ h2 {
+ 	font-family:å¾ ½¯é›…é»‘;
+ 	color:PaleVioletRed;
+ 	text-align:right;
+}
+ div.nowstart2 {
+ 	background-color:rgb(187,255,255);
+}
+ div.superfooter {
+ 	background-color:#333;
+}
+ a:link {
+    color:#808080;
+    text-decoration:underline;
+    }
+    a:visited {
+    color:#808080;
+    text-decoration:none;
+    }
+    a:hover {
+    color:#808080;
+    text-decoration:none;
+    }
+    a:active {
+    color:#808080;
+    text-decoration:none;
+    }
